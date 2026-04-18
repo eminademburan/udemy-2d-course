@@ -5,7 +5,7 @@ public class PrintToConsole : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log(" hello unity. i am adem");
+        Debug.Log(" hello unity. i am adem yeeeeh");
     }
 
     // Update is called once per frame
