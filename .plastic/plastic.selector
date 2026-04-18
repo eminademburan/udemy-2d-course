@@ -1,0 +1,4 @@
+repository "udemy 2d course 2026-04-18_20-46-34/udemy 2d course@18967319934215@cloud"
+  path "/"
+    br "/main"
+    co "/main"
